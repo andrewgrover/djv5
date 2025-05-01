@@ -1,0 +1,14 @@
+# example .gitignore
+venv/
+__pycache__/
+*.py[cod]
+*.pt
+*.wav
+*.log
+checkpoints/
+dataset/
+dj_sets/
+mel_dataset/
+BigVGAN/
+vocoder_data/
+songs/
